@@ -1,0 +1,17 @@
+Step 1 : Download the dataset from the given links :   
+
+         https://www.kaggle.com/datasets/minhngt02/ultra-video-group-uvg
+
+         https://www.kaggle.com/datasets/vivek1997jadhav/hevc-image
+	
+	 https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognitionhttps://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition
+
+Step 2 : Open the python application and enter the code.
+
+Step 3 : Enter the path of the downloaded dataset.
+
+Step 4 : The train and test ratio is 0.8/0.2.
+
+Step 5 : Finally execute the code.
+
+Step 6 : The output will display in terminal.
